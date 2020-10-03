@@ -50,14 +50,19 @@ Quick summary:
 
 > FizzBuzz is a program that prints the numbers from 1 to 100. But for multiples of three it prints “Fizz” instead of the number and for the multiples of five, it prints “Buzz”. For numbers which are multiples of both three and five it prints “FizzBuzz”.
 
+<p align="center">
+<img height="300" width="auto" src="https://64.media.tumblr.com/098171eb6557f68cae65fdffe485abc4/tumblr_onha88HP0a1w0dccho1_1280.gif"><br>
+  <sub><a href="https://100daysofalgorithms.tumblr.com/post/158891499866/day-86-ode-to-fizzbuzz-fizzbuzz-is-the-simplest">[Image source © 100daysofalgorithms]</a></sub>
+</p>
+
 Read more about it here: https://www.tomdalling.com/blog/software-design/fizzbuzz-in-too-much-detail/
 
 <hr>
 
 ## :trophy: Top 5 personal favorites:
 
-1. [Fizz Buzz As Compiler Error (C++)](https://github.com/NLDev/Hacktoberfest-2020-FizzBuzz/blob/master/C%2B%2B/FizzBuzzAsCompilerError.cpp) by [Adam Tornhill](https://www.adamtornhill.com/articles/fizzbuzz.htm)
-2. [First and only FizzBuzz implementation in "omgrofl"](https://github.com/NLDev/Hacktoberfest-2020-FizzBuzz/blob/master/Omgrofl/FizzBuzz.omgrofl) by [@adamsoutar](https://github.com/adamsoutar) - [See PR](https://github.com/NLDev/Hacktoberfest-2020-FizzBuzz/pull/205) for more information!
+1. [First and only FizzBuzz implementation in "omgrofl"](https://github.com/NLDev/Hacktoberfest-2020-FizzBuzz/blob/master/Omgrofl/FizzBuzz.omgrofl) by [@adamsoutar](https://github.com/adamsoutar) - [See PR](https://github.com/NLDev/Hacktoberfest-2020-FizzBuzz/pull/205) for more information!
+2. [FizzBuzz with Branchless logic (C++)](https://github.com/NLDev/Hacktoberfest-2020-FizzBuzz/blob/master/C%2B%2B/FizzBuzz-branchless-logic.cpp) by [@s0LA1337](https://github.com/s0LA1337)
 3. [Overly complicated FizzBuzz solution (Python)](https://github.com/NLDev/Hacktoberfest-2020-FizzBuzz/blob/master/Python/FizzBuzz-2.py) by [@InitialPosition](https://github.com/InitialPosition)
 4. [Hardcoded FizzBuzz (Python)](https://github.com/NLDev/Hacktoberfest-2020-FizzBuzz/blob/master/Python/FizzBuzz-HardCoded.py) by [@khong612](https://github.com/khong612)
 5. [FizzBuzz in CharArrays, Bytes and Hex Values (Java)](https://github.com/NLDev/Hacktoberfest-2020-FizzBuzz/blob/master/Java/FizzBuzz-Main.java) by [@nimbl0](https://github.com/nimbl0)
